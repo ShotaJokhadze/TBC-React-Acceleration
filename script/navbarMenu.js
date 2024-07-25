@@ -63,7 +63,7 @@ function setupMenu(menu, containerSelector, classes) {
       });
   });
 
-  // Close all dropdowns when clicking outside
+  
   document.addEventListener("click", () => {
     closeAllDropdowns();
   });
