@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-
+[https://shotajokhadze.github.io/TBC-React-Acceleration/](https://shotajokhadze.github.io/TBC-React-Acceleration/)
 
 ## Features
 -**რესპონსიული დიზაინი**: საიტი არის მთლიანად რესპონსიული და აღქმადი ყველა ზომის ეკრანისთვის.
