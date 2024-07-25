@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[https://shotajokhadze.github.io/TBC-React-Acceleration/](https://shotajokhadze.github.io/TBC-React-Acceleration/)
+[https://shotajokhadze.github.io/TBC-React-Acceleration/](https://tbcreact.netlify.app/)
 
 ## Technologies Used
 
