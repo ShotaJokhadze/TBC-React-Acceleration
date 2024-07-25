@@ -1,0 +1,77 @@
+.section-header {
+    margin-bottom: 36px;
+}
+
+.bundles {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.bundle {
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.bundle .image-container {
+    height: 100%;
+}
+
+.bundle img {
+    display: block;
+    width: 100%;
+    height: 102%;
+    object-fit: fill;
+    transition: all 0.25s ease-in-out;
+}
+
+.bundle:hover img {
+    transform: translateY(-1.5%);
+}
+
+.bundle-content {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: end;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.214);
+}
+
+.bundle-content h3 {
+    color: #fff;
+    margin: 0;
+}
+
+.bundle-content a {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 700;
+    transition: color 0.25s ease-in-out;
+    text-decoration: none;
+}
+
+.bundle-content a:hover {
+    color: var(--gray);
+}
+
+.bundle-content a span {
+    text-decoration: underline;
+}
+
+.bundle.b360 {
+    grid-row: span 2;
+}

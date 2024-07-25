@@ -1,0 +1,26 @@
+.numbers-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.number {
+    background: #fff;
+    padding: 40px 48px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    border-radius: 8px;
+    width: 30%; 
+    gap: 16px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.number h3 {
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 1.3;
+}

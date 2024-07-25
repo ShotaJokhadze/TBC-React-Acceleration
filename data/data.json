@@ -1,0 +1,199 @@
+{
+  "menu": [
+    {
+      "title": "პროდუქტები",
+      "items": [
+        { "name": "პროდუქტების მიმოხილვა", "link": "#" },
+        { "name": "ნაკრები", "link": "#" },
+        { "name": "პირადი ბანკირი", "link": "#" }
+      ]
+    },
+    {
+      "title": "შეთავაზებები",
+      "items": [
+        { "name": "მიმოხილვა", "link": "#" },
+        { "name": "შეთავაზებები", "link": "#" },
+        { "name": "ღონისძიებები", "link": "#" }
+      ]
+    },
+    {
+      "title": "კონცეპტის სივრცე",
+      "items": [
+        { "name": "მიმოხილვა", "link": "#" },
+        { "name": "კაფე", "link": "#" },
+        { "name": "ბიბლიოთეკა", "link": "#" },
+        { "name": "კონცეპტ ფილიალები", "link": "#" }
+      ]
+    }
+  ],
+
+
+
+  "counters": [
+    {
+      "value": 94750,
+      "label": "მომხმარებელი"
+    },
+    {
+      "value": 150,
+      "label": "ღონისძიება"
+    },
+    {
+      "value": 120,
+      "label": "შეთავაზება"
+    }
+  ],
+
+  
+    "banners": [
+      {
+        "imgPath": "./assets/home-hero.jpg",
+        "title": "თიბისი კონცეპტი",
+        "description": "პერსონალური საბანკო მომსახურება, მორგებული თქვენს საჭიროებებსა და ინტერესებზე",
+        "buttonText": "გამოიწერეთ",
+        "buttonLink": "#"
+      },
+      {
+        "imgPath": "./assets/home-hero2.jpg",
+        "title": "პირადი ბანკირი",
+        "description": "თქვენი სანდო პარტნიორი ფინანსურ რჩევებსა და ოპერაციებში",
+        "buttonText": "გაიგეთ მეტი",
+        "buttonLink": "#"
+      }
+    ],
+
+    "bundle-slider": [
+    {
+      "class": "digital",
+      "image": "./assets/bundle1.jpg",
+      "heading": "ციფრული",
+      "link": "#",
+      "linkText": "იხილეთ მეტი"
+    },
+    {
+      "class": "b360",
+      "image": "./assets/bundle3.jpg",
+      "heading": "360",
+      "link": "#",
+      "linkText": "იხილეთ მეტი"
+    },
+    {
+      "class": "premium",
+      "image": "./assets/bundle2.jpg",
+      "heading": "პრემიუმი",
+      "link": "#",
+      "linkText": "იხილეთ მეტი"
+    }
+  ],
+  "offer-Slider": [
+    {
+      "img": "./assets/offer-slider7.jpg",
+      "logo": "./assets/offer-logo7.jpg",
+      "category": "ინვესტიციები",
+      "title": "MP დეველოპმენტი - აშშ და ევროს ობლიგაციები"
+    },
+    {
+      "img": "./assets/offer-slider1.jpg",
+      "logo": "",
+      "category": "ჯაზ ფესტივალის შეთავაზებები",
+      "title": "IVERIA BEACH - დაიბრუნეთ 30%"
+    },
+    {
+      "img": "./assets/offer-slider2.jpg",
+      "logo": "./assets/offer-logo2.jpg",
+      "category": "ავტო  თეგეტა მოტორსი",
+      "title": "თეგეტა მოტორსი - 50% ფასდაკლება"
+    },
+    {
+      "img": "./assets/offer-slider3.jpg",
+      "logo": "./assets/offer-logo2.jpg",
+      "category": "ავტო  თეგეტა მოტორსი",
+      "title": "თეგეტა მოტორსი - ბათუმი"
+    },
+    {
+      "img": "./assets/offer-slider4.jpg",
+      "logo": "./assets/offer-logo4.jpg",
+      "category": "დასვენება ვიზა ჯაზ ფესტივალის შეთავაზებები",
+      "title": "Le Meridien Batumi – 15%-იანი ფასდაკლება"
+    },
+    {
+      "img": "./assets/offer-slider5.jpg",
+      "logo": "./assets/offer-logo5.jpg",
+      "category": "დასვენება ვიზა ჯაზ ფესტივალის შეთავაზებები",
+      "title": "Colosseum Marina Hotel – 15%-იანი ფასდაკლება"
+    },
+    {
+      "img": "./assets/offer-slider6.jpg",
+      "logo": "./assets/offer-logo6.jpg",
+      "category": "დასვენება სხვა",
+      "title": "PULSE - რითრითი რაჭაში"
+    }
+  ],
+
+  "product-Slider": [
+    {
+      "img": "./assets/bundle1.jpg",
+      "title": "ციფრული",
+      "content": "თიბისი კონცეპტის ციფრული ნაკრები განკუთვნილია მათთვის, ვისთვისაც <strong>საბანკო მომსახურებით სარგებლობა ყოველდღიურობის ნაწილია</strong>, ვინც აქტიურად მოიხმარს <strong>არასაბანკო პროდუქტებსა და შეთავაზებებს</strong> და ვისაც ურჩევნია დამოუკიდებლად, <strong>პირადი ბანკირის გარეშე</strong> მართოს საკუთარი ფინანსები და საბანკო ოპერაციები."
+    },
+    {
+      "img": "./assets/bundle2.jpg",
+      "title": "პრემიუმი",
+      "content": "თიბისი კონცეპტის მომხმარებლებთან ურთიერთობის ერთ-ერთი ფორმატი - <strong>პრემიუმ ნაკრები</strong>, სხვა საბანკო და..."
+    },
+    {
+      "img": "./assets/bundle3.jpg",
+      "title": "360",
+      "content": "<strong>თიბისი კონცეპტის 360</strong> ნაკრები განკუთვნილია მათთვის, ვისაც სხვა საბანკო და არასაბანკო უპიტარესობებთან ერთად..."
+    }
+  ],
+
+
+  "award-Slider": [
+    {
+      "img": "./assets/awards-slider1.jpg",
+      "title": " საუკეთესო პერსონალური საბანკო მომსახურება საქართველოში 2024 ",
+      "content": "The Global Finance"
+    },
+    {
+      "img": "./assets/awards-slider2.jpg",
+      "title": " საუკეთესო პერსონალური საბანკო მომსახურება საქართველოში 2023 ",
+      "content": "Euromoney"
+    },
+    {
+      "img": "./assets/awards-slider1.jpg",
+      "title": " საუკეთესო პერსონალური საბანკო მომსახურება საქართველოში 2022 ",
+      "content": "The Global Finance"
+    },
+    {
+      "img": "./assets/awards-slider3.jpg",
+      "title": " საუკეთესო პერსონალური საბანკო მომსახურება საქართველოში 2021 ",
+      "content": "The Banker & PWM"
+    }
+  ],
+
+  "footer": [
+    {
+      "title": "პროდუქტები",
+      "items": [
+        { "name": "ნაკრები", "link": "#" },
+        { "name": "პერსონალური ბანკირი", "link": "#" }
+      ]
+    },
+    {
+      "title": "lifestyle",
+      "items": [
+        { "name": "შეთავაზებები", "link": "#" },
+        { "name": "ღონისძიებები", "link": "#" }
+      ]
+    },
+    {
+      "title": "კონცეპტის სივრცე",
+      "items": [
+        { "name": "მიმოხილვა", "link": "#" },
+        { "name": "ბიბლიოთეკა", "link": "#" }
+      ] 
+    }
+  ]
+  
+}

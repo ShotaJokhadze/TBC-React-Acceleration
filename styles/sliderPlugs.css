@@ -1,0 +1,43 @@
+.scroll {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-direction: row-reverse;
+}
+
+.scrollbar-buttons {
+    max-width: 40px;
+    margin-right: 10px;
+    gap: 10px;
+    display: flex;
+    justify-self: end;
+    justify-content: space-between;
+}
+
+.scrollbar-buttons i {
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+    color: #a5aaac;
+
+    &:hover {
+        color: var(--blue);
+    }
+}
+
+.progress-bar {
+    flex-grow: 1;
+    height: 2px;
+    background-color: #a5aaac;
+    position: relative;
+}
+
+.progress-inner {
+    height: 100%;
+    background-color: var(--blue);
+    width: 0;
+}
+
+.products .scroll {
+    display: none;
+}

@@ -1,0 +1,86 @@
+.contact-us {
+    padding: 32px 45px ;
+}
+
+.contact-us .container .header {
+    color: var(--black);
+    margin-bottom: 16px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.contact-list {
+    display: flex;
+    flex-direction: column;
+    margin-block: 32px;
+    gap: 15px;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
+
+.social-list {
+    font-size: 20px;
+    display: flex;
+    gap: 25px;
+    align-items: flex-start;
+}
+
+.social-list a {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:var(--light);
+}
+
+.social-list a i {
+    transition: var(--transition);
+    font-size: 16px;
+}
+
+.social-list a:hover i {
+    color: var(--blue);
+}
+
+.rights {
+    padding: 28px 0;
+    border-top: 1px solid #eef1f1;
+    font-size: 12px;
+}
+
+.rights-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.rights .rights-links {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+}
+
+.rights .container .right {
+    display: flex;
+    gap: 9px;
+    align-items: center;
+}
+
+.rights .container .right img {
+    width: 27px;
+    height: 24px;
+}
+
+.rights .container .right p {
+    margin: 0;
+    color: var(--gray);
+}
